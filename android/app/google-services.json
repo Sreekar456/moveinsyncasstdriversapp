@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "607050679755",
+    "firebase_url": "https://moveinsyncnewasst-default-rtdb.firebaseio.com",
+    "project_id": "moveinsyncnewasst",
+    "storage_bucket": "moveinsyncnewasst.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607050679755:android:19d004c400439cea34224e",
+        "android_client_info": {
+          "package_name": "com.sreekar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7h990iMCE7ZQu3xX2erMCP4nk24LxAvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607050679755:android:86a50152e9846e0b34224e",
+        "android_client_info": {
+          "package_name": "com.sreekar.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7h990iMCE7ZQu3xX2erMCP4nk24LxAvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
